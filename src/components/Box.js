@@ -1,7 +1,7 @@
 // ./src/components/Box.js
 import React from 'react';
 import Div from './Div';
-import { ColorContext } from './../context/';
+import { ColorContext } from '../context';
 
 export default class Box extends React.Component {
     render() {
