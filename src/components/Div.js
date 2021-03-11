@@ -1,6 +1,6 @@
 // ./src/components/Div.js
 import React from 'react';
-import { TextContext, ColorContext } from './../context/';
+import { TextContext, ColorContext } from '../context';
 
 export default class Div extends React.Component {
     render() {
