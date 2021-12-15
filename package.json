@@ -1,6 +1,6 @@
 {
-  "name": "webpack-helloworld",
-  "version": "1.0.0",
+  "name": "react-context-multiple",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
     "build": "webpack --mode production"
   },
   "keywords": [],
-  "author": "",
+  "author": "devmentor.pl",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.6.4",
